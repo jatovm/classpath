@@ -307,7 +307,7 @@ final class VMMath
   static native double ceil(double a);
 
   /**
-   * Take the nearest integer that is that is less than or equal to the
+   * Take the nearest integer that is less than or equal to the
    * argument. If the argument is NaN, infinite, or zero, the result is the
    * same. Note that <code>Math.ceil(x) == -Math.floor(-x)</code>.
    *
